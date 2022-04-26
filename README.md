@@ -1,1 +1,1 @@
-# Data-Scientist-Hiring-Challenge-conde-Nast-
+# Data-Scientist-Hiring-Challenge-conde-Nast-Hackerearth
